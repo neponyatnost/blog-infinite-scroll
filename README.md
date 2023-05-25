@@ -1,1 +1,1 @@
-https://neponyatnost.github.io/my-app/
+https://neponyatnost.github.io/blog-infinite-scroll/
